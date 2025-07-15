@@ -11,3 +11,4 @@ wheels/
 .gradio
 
 chroma_db/
+.env
