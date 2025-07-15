@@ -1,0 +1,21 @@
+[project]
+name = "zengenai2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=1.0.15",
+    "duckduckgo-search>=8.1.1",
+    "gradio>=5.36.2",
+    "huggingface-hub>=0.33.4",
+    "langchain>=0.3.26",
+    "langchain-community>=0.3.27",
+    "langsmith>=0.4.5",
+    "ollama>=0.5.1",
+    "pypdf>=5.7.0",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.1.1",
+    "sentence-transformers>=5.0.0",
+    "transformers>=4.53.2",
+]
